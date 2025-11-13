@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+# docs 資料夾用於 GitHub Pages，不要忽略
+# docs
 
 # Editor directories and files
 .vscode/*
